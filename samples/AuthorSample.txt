@@ -1,0 +1,189 @@
+Id,Name,Affiliation
+9,Ernest Jordan,
+14,K. MORIBE,
+15,D. Jakominich,
+25,William H. Nailon,
+37,P. B. Littlewood,Cavendish Laboratory|Cambridge University
+44,A. Kuroiwa,Department of Molecular Biology|School of Science|Nagoya University
+55,Jose Pereira,HASLab / INESC TEC and Universidade do Minho
+59,Buzz Aldrin,"Purdue University, West Lafayette, Indiana 47907-2023"
+75,M. Till-berg,
+85,E.c.c. Tsang,"This project,is supported,by a Hong,Kong,Polytechnic,University,grant,PA25"
+112,E. A. Uliana,
+114,Shankar Sa Y,Univ . of California at Berkeley
+119,KAIPING HAN,"Department of Biological Sciences, University of South Carolina, Columbia, SC 29208, USA"
+130,Xiaotao Wu,
+175,Anneke A. Sohoone,Rijksuniversiteit.Utrecht
+185,Harry Dankowicz,Department of Mechanical Science and Engineering|University of Illinois at Urbana-Champaign
+193,Gebreselassie Baraki,"Oregon Graduate Institute , and Glasgow University"
+199,Yufeng Xin,
+201,Mass-market Dynamics,
+202,Ph. Mathieu,Laboratoire d'Informatique Fondamentale de Lille
+207,Robert A. Granat,
+228,Hafez Hadinejad-mahram,
+231,H. De Hoop,"ESSLLI  '98 Summer school class in Saarbrücken, August 1998, and the Stanford OT-Workshop ""Is"
+250,Mark L. Manwaring,
+254,Andrew L. Goldberg,Department of Diagnostic Radiology|Allegheny General Hospital
+255,Julian Brad Eld,"Laboratory for Foundations of Computer Science; University of Edinburgh; JCMB , King's Buildings"
+273,Bruce A. Rosenblatt,
+287,Mitchell D. Theys,University of Illinois Chicago
+291,Olaf E. Flippo,
+302,Elisabeth Umkehrer,IRIDIA - Universit Libre de Bruxelles
+308,Balasubramanian Sethuraman,Department of ECECS|University of Cincinnati
+313,BARRY K. WITHERSPOON,
+314,Natalia Jimeno,
+325,Zhen Song,
+334,Edmund Pierzchala,
+336,Halina Przymusinska,
+339,Jae-Hoon Kim,
+347,Jonathan M. Borwein,
+365,Victor M. Kureichick,
+386,P Ludvigsen,
+388,Mahir Hassan,
+402,V. Climent,
+406,Jens-Rainer Ohm,
+408,F. Davidson,"Department of Dairy|University of Illinois , Urbana"
+409,Olivier Bertrand,Institut National de la Santé et de la Recherche Médicale
+410,Den Eshof,
+423,Effects Of Moisture,
+426,Michael Thomas,California Institute of Technology
+435,Peter D. Chalk,
+442,Universitat Heidelberg Im,
+445,David W. Reagor,
+449,J. Baba,
+461,Taku Takeishi,
+465,Leena Lulu,
+472,Jean-paul De Blasis,
+480,Kazuo Funaki,
+499,N. Negoescu,
+508,B. Delabre,European Southern Observatory
+514,A. Difebbraro,
+535,N. Kuster,"Foundation for Research on Information Technologies in Society (IT'IS), Zeughausstrasse 43"
+536,Planning Subbarao Kambhampati,"Dept. of Computer Science and Computer Engineering, University of Arkansas"
+547,Robert J. Waldmann,
+548,Biondo L. Biondi,
+550,Chester A. Ruszczyk,
+560,Ryoji Nagai,Japan Atomic Energy Agency
+561,T. Mcneill,Lowell Observatory
+571,Erika F. De Lima,
+576,Georges Meynet,
+579,Jared A. Jeffries,
+584,STEFFEN JAENSCH,
+587,Jorg Dahmen,
+591,Harald Kirchner,Bavarian Research Center
+605,immunofluoresence study,"U.S. Fish and Wildlife Service,Division of Fish Hatcheries"
+609,Louis Laborelli,
+612,Matthias Roeckl,
+623,Taneli Mielikainen,"FIN-00014 University of Helsinki, Finland"
+633,Computer Science,Georgia Institute of Technology
+638,Deborah E. Giaschi,Ophthalmology and Visual Sciences|University of British Columbia
+642,Daniel Fitz,Division of Theoretical Chemistry|Institute of General Inorganic and Theoretical Chemistry|University of Innsbruck
+657,S. Brunak,Center for Biological Sequence Analysis; The Technical University of Denmark
+659,Douglas E. Comer,
+684,T. Kashima,
+710,William Tait,
+716,R. Ishikawa,Department of Astronomy|University of Tokyo
+724,Clarisse Dhaenens,UMR8022 Laboratoire d'Informatique Fondamentale de Lille
+728,S. Tyler Staelin,Department of Surgery|University of Wisconsin
+731,P C Mishra,KIIT University Kalinga Institute of Industrial Technology
+743,L. E. Aranchuk,
+745,Alexander V. Soldatov,Harvard University
+767,Steven L. Salzberg,
+771,P. K. Joshi,Space Applications Centre
+782,A. Y.-J. Park,Department of Physics and Basic Research Institute|Sogang University
+795,Anthony J. Saliba,
+800,Soren Birk Rasmussen,Consejo Superior de Investigaciones Científicas
+801,T. J. Howkins,
+805,Atanasios Mitropoulos,
+811,Lutz Schlesinger,
+814,Jeffrey F. Naughton,Polymer Science Centre|University of Reading
+817,Teoretisk Astrofysik Center,Budker Institute of Nuclear Physics
+826,Emanuele Buratti,
+828,Pascal Filoche,"Orange Labs (France Telecom,R&D)"
+870,John Thorstensen,
+874,Esselina Macome,
+1782,Nuno Fonseca,Unit of Marine Engineering and Technology|Technical University of Lisbon
+888,Services More Responsive,"Carole Rakodi , International Development Department , School of Public Policy,; University of Birmingham , October , 2002"
+896,B. A. Orner,Department of Electrical Engineering|University of Delaware
+906,J. P. Olivier de Sardan,
+908,M. Wojtowicz,Northrop Grumman Space Technology
+915,Hilary J. Holz,
+928,H. C. Minnett,
+933,Winoah A Henry,The Johns Hopkins University
+941,Hui Xu,
+950,Jee-Hyang Jeong,
+971,Eric Hammer,"Center for the Study of Language and Information, Stanford University"
+973,D. Budge,
+976,Frank Alber,
+979,David Petros,"Department of Horticulture and Landscape Architecture, Purdue University, West Lafayette, IN 47907-1165, USA"
+1008,Massimiliano Polichetti,Dipartimento di Fisica|Università di Salerno
+1013,M. Cabrera Garcia,
+1022,Rg Networking,"School of Computing University of Glamorgan, Pontypridd (Cardi ) CF-37 1DL, Wales, UK"
+1030,Anirvan Sengupta,Bell Labs|Lucent Technologies
+1042,W. B. Fowler,Fermi National Accelerator Laboratory
+1050,Creating A Virtual Network,
+1051,Oukseh Lee,Seoul National University
+1076,Janet Rosenbaum,
+1090,Harald Geist,
+1099,Christopher J. Hogger,Department of Computing|Imperial College London
+1106,W. Harkam,"Institute of Biomedical Engineering, Department of Medical InformaticsUniversity of Technology Graz"
+1118,Alessandro Mosca,Free University of Bozen Bolzano
+1120,Elizabeth A. Warren,Australian Catholic University
+1121,Steven S. Vogt,"UCO / Lick Observatory|University of California , Santa Cruz"
+1139,Jader A. De Lima,
+1140,Michael Weisbach,
+1142,R. Pokorny,
+1145,R. J. M. van Hoesel,
+1165,G. E. Mcclellan,
+1166,J. Casey,Ministry of Agriculture|Fisheries and Food|Directorate of Fisheries Research Fisheries Laboratory
+1182,Musical Information Retrieval,
+1186,Ahmet E. Topcu,
+1204,Pierre Brissonneau,
+1209,H. L. Premaratne,
+1214,Alexander Grothendieck,
+1246,Daniel C. Dennett,Tufts University
+1247,Norm C. Strole,
+1249,Per Ola B Orjesson,
+1253,Paul M. Mullins,
+1257,Joffre Swait,
+1269,Lina L. E. Massone,
+1273,Johan Van Rensbergen,Vito - Centre of Remote Sensing and Atmospheric Processes Boeretang
+1290,Mukhtiar A. Shaikh,
+1300,A. W. Kushnniruk,
+1302,Deborah Hix,Virginia Polytechnic Institute and State University
+1308,Patrick S. Huggins,
+1312,Sing Bing Kang,Microsoft Research
+1317,P. Fessenden,Chairman at the formation of the Task Group and during the prepara-
+1324,Paul Willmann,
+1326,A. H. Schainblatt,
+1327,C. G Felix,Department of Computer Science|University of Technology
+1328,Marc Najork,"Microsoft Research, 1065 La Avenida, Mountain View, CA"
+1330,F. J. Aragon Artacho,University of Nebraska Lincoln
+1339,Alberto TESEI,
+1347,K. Deaux,
+1350,C. Hummel,Department of Neurology|University of Erlangen-Nürnberg
+1357,H. Ishihara,"of Tokyo Dental College, 45(1): 47-57"
+1358,E. Kaji,
+1374,Stephan Wong Jack,
+1377,Martin Visbeck,National Center for Atmospheric Research
+1381,K. Ilely,
+1387,Joshua Bergman,Lund University
+1412,K. Akhtar,University of Wisconsin|Ecole Polytechnique FØdØrale de Lausanne|Australian National University
+1415,P. D. H. Hill,
+1416,Christopher C. Jones,
+1417,B Moores,
+1419,Chih-lung Lin,National Chung Hsing University
+1437,M. Mcbeath,
+1460,Michael Debellis,
+1465,Mehmet Turan Soylemez,Istanbul Technical University|Electrical Engineering Department
+1474,E. Singh,Dupont Chemical Solutions Enterprise
+1476,Sweder van Wijnbergen,University of Amsterdam
+1503,F. Ochmann,
+1506,To Solve Challenging,
+1508,Jonathan J. Oliver,
+1522,Emanuel Ciprian Sasu,
+1527,Chien-Chung Chang,Computer Science & Information Engineering|National Taiwan University|Science and Technology
+1528,Jiye Ximen,
+1537,L Muntz,
+1539,Tryphon T. Georgiou,
+1567,S.-I. Akimoto,Department of Molecular Chemistry|Graduate School of Engineering|Hokkaido University

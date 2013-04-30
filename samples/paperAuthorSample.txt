@@ -1,0 +1,164 @@
+PaperId,AuthorId,Name,Affiliation
+1,521630,Ayman Kaheel,Cairo Microsoft Innovation Lab
+1,972575,Mahmoud Refaat,Cairo Microsoft Innovation Lab
+1,1528710,Ahmed Abdul-hamid,Cairo Microsoft Innovation Lab
+1,1611750,Motaz Ahmad El-saban,Cairo Microsoft Innovation Lab
+2,1682088,Julio D. Rossi,"Departamento Matemática, FCEyN UBA (1428) Buenos Aires, Argentina"
+2,2070803,Liviu I. Ignat,"Departamento de Matemáticas, U. Autónoma de Madrid, 28049 Madrid, Spain"
+3,627950,Andrew Cain,Swinburne University of Technology
+3,1369077,A. J. Cain,
+3,1695699,J. D. Currey,
+4,30604,ERIKA M. ADAMS,
+4,1415574,STEVAN J. ARNOLD,
+4,1456512,ADAM G. JONES,
+5,1102257,Kazuo Iwama,Kyushu University 812 Fukuoka Japan 812 Fukuoka Japan
+6,1806301,Asgeir Finnseth,
+6,2252569,Guðmundur Jökulsson,
+7,1491002,M. H. Friedman,
+8,146002,M. C. POSTEL-VINAY,
+8,318484,Patrick Durand,The french National Institute for Research in Computer science and Control
+8,1453825,S. LOPEZ,
+8,1591246,M. LAVAU,
+8,1976867,P. DURAND,
+9,32948,Matthias P. A. Ebert,
+9,456048,Suzanne H. Mooney,
+9,557068,Christoph Röcken,
+9,595490,Jie Chen,
+9,669019,Hans-Ulrich Schulzb,
+9,787848,Catherine Lofton-Day,
+9,1059410,Peter Malfertheinerb,
+9,1370072,Juliane Hoffmann,
+9,1752826,Joe Lograsso,
+9,2075616,Lori Tonnes-Priddy,
+9,2151636,Jian Chen,Nanjing University
+10,7052,Jun Du,
+10,84626,Chungu Lu,NOAA|Forecast Systems Laboratory|Colorado State University
+10,289198,Steve Tracton,Office of Naval Research
+10,1876916,Stan Benjamin,NOAA Forecast Systems Laboratory
+10,1925401,Jun Du,Microsoft
+11,1278342,Antónia Lopes,"Department of Informatics, Faculty of Sciences, University of Lisbon, Campo Grande, 1749-016 Lisboa, Portugal"
+11,1501165,Laura Bocchi,"Department of Computer Science, University of Leicester, University Road, Leicester, LE1 7RH UK"
+11,1607874,José Luiz Fiadeiro,"Department of Computer Science, University of Leicester, University Road, Leicester, LE1 7RH UK"
+12,609769,Toshitsugu Yuba,"Department of Network Science, Graduate School of Information Systems, The University of Electro-Communications"
+12,1586598,Hiroaki Honda,"Department of Network Science, Graduate School of Information Systems, The University of Electro-Communications"
+12,1750679,Kenji Kise,"Department of Network Science, Graduate School of Information Systems, The University of Electro-Communications"
+12,2074708,Takahiro Katagiri,University of Tokyo
+12,2074708,Takahiro Katagiri,"Department of Network Science, Graduate School of Information Systems, The University of Electro-Communications"
+13,14898,S. Roy,
+13,28903,R. M. D'Souza,
+13,656591,Z. M. Saul,
+13,1423262,P. T. Devanbu,
+13,1463152,V. Filkov,
+14,864723,Zhijun Wang,
+14,876755,Junbing Pu,
+14,1044972,Zhiyong Hu,
+14,1845853,Pengfei Gou,
+14,1947676,Daoxian Yuan,
+14,2032097,Qiufang He,
+15,951408,Yoshihiro Nakamura,
+15,1312880,Yasuo Kataoka,
+15,1385251,Yutaka Mitsunaga,
+15,2271702,Yasuyuki Kato,
+16,931086,Daniele Bertaccini,"University of Firenze Dipartimento di Matematica viale Morgagni, 67/a 50134 Firenze Italy"
+16,1088317,Michael K. Ng,The University of Hong Kong Department of Mathematics Pokfulam Road Hong Kong
+17,604798,Shalom Tsur,
+17,1313052,Sumit Ganguly,
+17,2100431,Abraham Silberschatz,
+18,564351,Bernard P. Zeigler,
+18,669847,Peter Bichler,
+18,1622395,Herbert Praehofer,
+19,1698565,Catalin Dima,
+20,1020050,Klaus F. Zimmermann,
+20,1892818,Nikos Askitas,
+21,168700,James D Luketich,
+21,814142,Ninh T Nguyen,
+21,1730810,Philip R Schauer,
+22,76507,Jonathan H Hamilton,
+23,117601,Hans Herrmann,
+23,399738,Armin Bunde,
+23,669370,H. Stanley,
+23,1268324,Alla Margolina,
+24,73938,J. M. Jin,
+24,544516,W. C. Chew,
+24,2132279,L. E. Sun,
+25,122269,John Dowding,
+25,133335,Beth Ann Hockey,
+25,221879,Genevieve Gorrell,
+25,1599230,Manny Rayner,
+25,1865153,Johan Boye,
+26,794680,M. Cador,
+26,1586013,J. R. Taylor,
+26,1828620,T. W. Robbins,
+27,334529,Vincent Hugel,
+27,1334729,Patrick Bonnin,
+27,1705572,Pierre Blazevic,
+28,1647360,Malgorzata Kalinowska-iszkowska,
+29,968063,S M Garland,
+29,1156243,L W Doyle,
+29,1240002,U K Mishra,"Newborn Services, Royal Women’s Hospital, Melbourne, Victoria, Australia"
+29,1462727,S E Jacobs,"Newborn Services, Royal Women’s Hospital, Melbourne, Victoria, Australia"
+30,569584,H. Schneider,
+30,795412,U. Saint-Paul,"Leibniz Center for Tropical Marine Ecology, Fahrenheitstr. 6, 28359 Bremen, Germany"
+31,158775,David G. Robinson,
+31,178756,Susanne E. H. Holstein,
+31,230221,Stefan Hillmer,
+31,230221,Stefan Hillmer,Heidelberg University
+31,550378,Bettina Kobert,
+31,569906,T.-H. David Ho,
+31,818400,Peter H. Brown,
+32,509494,Andreas Drexl,
+33,606803,Onno J. Boxma,
+34,643499,Alexander Hall,
+34,952569,Evdokia Nikolova,
+34,1642215,Christos Papadimitriou,
+35,1033602,Curt Covey,
+35,1993491,Gerald Schubert,
+36,262009,Leann Myers,
+36,423959,Mark A Murchison,"Department of Veterinary Medicine, Tulane National Primate Research Center, 18703 Three Rivers Road, Covington, LA 70433, USA"
+36,706809,Michael P Muehlenbein,"Reproductive Ecology Laboratory, Department of Anthropology, Yale University, 51 Hillhouse Avenue, New Haven, CT 06520-8277, USA"
+36,1060105,Benjamin C Campbell,"Department of Anthropology, Boston University, 232 Bay State Road, Boston, MA 02215, USA"
+36,1406724,Kathrine M Phillippi-Falkenstein,"Department of Veterinary Medicine, Tulane National Primate Research Center, 18703 Three Rivers Road, Covington, LA 70433, USA"
+36,1450492,Robert J Richards,
+36,1907332,Frank Svec,
+37,65747,S. R. CHOI,
+37,689094,Y. H. LIM,
+37,1071333,S. C. LEE,
+37,1303266,Jeong Min Lee,Seoul National University
+37,2010697,J. H. LEE,
+37,2112282,C. J. CHUNG,
+38,1352552,R. J. Baer,
+38,1482259,V. V. Mistry,
+38,1780084,S. J. Foster,
+39,292338,Mary E. Wines,
+39,308714,Lance Lee,
+39,424480,Ying Shi,
+39,886735,Bernadette C. Holdener,
+39,1021822,Liqun Zhang,
+39,1301373,Signa Perkins,
+39,1379510,Charles DeRossi,
+39,1587517,W. Richard McCombie,
+39,2180097,Michael Feldman,
+39,2266956,Manpreet S. Katari,
+40,1338078,Matthew Reid,Department of Electrical and Computer Engineering|University of Alberta
+40,2119692,R. Fedosejevs,Department of Electrical and Computer Engineering|University of Alberta
+41,9126,Jei Keon Chae,"Chonbuk National University Hospital, Jeonju, Korea"
+41,186515,Jae-Hwan Lee,"Cardiology Division of Internal Medicine, Chungnam National University Hospital, Chungnam National University, Deajeon, Korea"
+41,198507,Si Wan Choi,"Cardiology Division of Internal Medicine, Chungnam National University Hospital, Chungnam National University, Deajeon, Korea"
+41,357215,Nae-Hee Lee,"Soonchunhyang University Bucheon Hospital, Bucheon, Korea"
+41,377169,Cheol Whan Lee,"Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea"
+41,387948,Jae-Ki Ko,"Chonbuk National University Hospital, Jeonju, Korea"
+41,453937,In-Whan Seong,"Cardiology Division of Internal Medicine, Chungnam National University Hospital, Chungnam National University, Deajeon, Korea"
+41,685423,Jae Hwan Lee,Soongsil University
+41,732712,Seung-Whan Lee,"Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea"
+41,908355,Myeong-Ki Hong,"Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea"
+41,932547,Young-Hak Kim,"Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea"
+41,1000036,June Hong Kim,"Busan National University Hospital, Busan, Korea"
+41,1293767,Jin-Ok Jeong,"Cardiology Division of Internal Medicine, Chungnam National University Hospital, Chungnam National University, Deajeon, Korea"
+41,1360957,Seong-Wook Park,"Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea"
+41,1361335,Kyoung-Suk Rhee,"Chonbuk National University Hospital, Jeonju, Korea"
+41,1455262,Yoon Haeng Cho,"Soonchunhyang University Bucheon Hospital, Bucheon, Korea"
+41,1554001,Sung-Cheol Yun,"Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea"
+41,1716913,Seung-Jung Park,"Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea"
+41,1772119,Kook-Jin Chun,"Busan National University Hospital, Busan, Korea"
+41,1791364,Hyun-Sook Kim,"Hallym University Sacred Heart Hospital, Anyang, Korea."
+41,1998368,Jae-Hyeong Park,"Cardiology Division of Internal Medicine, Chungnam National University Hospital, Chungnam National University, Deajeon, Korea"
