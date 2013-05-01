@@ -87,6 +87,16 @@ if __name__ == '__main__':
 	paper_id = papers()
 	total_papers = len(paper_id)
 
+	author_matrix = zeros((total_authors,10))
+	copy_matrix   = zeros((total_authors,10))
+	print 'enough for author_matrix'
+
+def matrix_mf():
+	author_csv = authors()#return the authors dictionary
+	total_authors = len(author_csv)
+	paper_id = papers()
+	total_papers = len(paper_id)
+
 	author_matrix = zeros((total_authors,total_authors))
 	author_paper = zeros((total_authors,total_papers))
 
