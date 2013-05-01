@@ -1,7 +1,8 @@
-*.py[cod]
-
 # C extensions
 *.so
+
+#dataset
+.csv
 
 # Packages
 *.egg
