@@ -1,14 +1,7 @@
+*.py[cod]
+
 # C extensions
 *.so
-
-#folders
-naviesvm
-
-#Dataset
-.csv
-
-#images
-*.png
 
 # Packages
 *.egg
