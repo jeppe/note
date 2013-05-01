@@ -1,0 +1,7 @@
+Data Set Statical Variables
+===========================================================
+Papers.csv contains 2267542 records,among them there're 128141 papers presented by the same paperId
+You can check it with paperBenchmark.py
+
+===========================================================
+
