@@ -30,26 +30,64 @@ def authorBenchmark():
 	sample.close()
 	_author.close()
 
-if __name__ == '__main__':
-	#authorBenchmark()
+def findYear(record):
+	position = 0
+
+	for index,value in enumerate(record[2:]):
+		try:
+			int(value)
+			position = index + 2
+			break
+		except:
+			pass
+	return position
+
+def paperNoise():
 	paper = open('paper.csv','r')
 
 	paper_db = dict()
 	content = paper.readlines(BUFFER)
-	counter = 0
+	counter = -1
+	nosie_paper = 0
+
 	while len(content) > 0:
 		for record in content:
-			record = record.strip().split(',')
+			counter += 1
+			if counter % 100000 == 1:
+				print counter
+			record_copy = record.strip().split(',')
+
 			try:
-				pid = int(record[0])
-				pid,title,year,conid,journalid,keywords = record
+				pid = int(record_copy[0])
+				#find the index of the 'year' attribute in the record
+				yearPosition = findYear(record_copy)
+				#reconstruct the title of paper
+				title = ','.join(record_copy[1:yearPosition])
+				title = title.replace('"','')
 				title = title.lower()
+
+				year = record_copy[yearPosition]
+				#conferenct id
+				conid = record_copy[yearPosition + 1]
+				#journal id
+				journalid = record_copy[yearPosition + 2]
+				#keep the keywords
+				keywords = record_copy[yearPosition + 3:]
+				
+				if title in paper_db:
+					paper_db[title] += 1
+				
 				if title not in paper_db:
 					paper_db[title] = 1
-				else:
-					#print title
-					raw_input()
+
 			except Exception as inst:
-				#print len(record[0]),record[0]
 				pass
 		content = paper.readlines(BUFFER)
+	for title in paper_db:
+		if paper_db[title] != 1:
+			nosie_paper += 1
+	print 'noise',nosie_paper,'records',counter
+
+if __name__ == '__main__':
+	#authorBenchmark()
+	
