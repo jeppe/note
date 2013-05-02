@@ -4,6 +4,9 @@
 #dataset
 *.csv
 
+#direct
+plk
+
 # Packages
 *.egg
 *.egg-info

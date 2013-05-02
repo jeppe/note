@@ -5,3 +5,8 @@ You can check it with paperBenchmark.py
 
 ===========================================================
 
+PaperAuthor.csv
+
+N1:There're some AuthorId existing in the PaperAuthor.csv,but not in the Author.csv
+Luckily,the the property of AuthorId in the Valid.csv is corresponding with the Author.csv
+N2:One paper could have over 600 authors,Such a noise!
