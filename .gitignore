@@ -3,6 +3,7 @@
 
 #dataset
 *.csv
+*.data
 
 #direct
 plk
