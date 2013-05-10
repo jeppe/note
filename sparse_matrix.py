@@ -31,7 +31,7 @@ def authors_list():
 		except:
 			pass
 	datas.close()
-	return authors_dict#dictionary
+	return authors_dict#list
 
 def papers():
 	datas = open('Paper.csv','r')
@@ -131,7 +131,8 @@ if __name__ == '__main__':
 					if counter % 100000 == 1:
 						print counter
 					author_index = author_dict[aid]
-					paper_author[pid].append(author_index)
+					if author_index not in paper_author[pid]:
+						paper_author[pid].append(author_index)
 			except:
 				pass
 		buffer_content = pa_datas.readlines(BUFFER)
@@ -193,8 +194,6 @@ if __name__ == '__main__':
 						sparse_matrix[index_i][index_j] += 1
 
 				elif index_i > index_j:
-
-					
 					if index_j not in sparse_matrix:
 						sparse_matrix[index_j] = {index_j:1}
 						sparse_nodes += 1
