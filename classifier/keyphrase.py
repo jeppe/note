@@ -2,19 +2,20 @@
 
 import nltk
 
-text = """The Buddha, the Godhead, resides quite as comfortably in the circuits of a digital
+"""The Buddha, the Godhead, resides quite as comfortably in the circuits of a digital
 computer or the gears of a cycle transmission as he does at the top of a mountain
 or in the petals of a flower. To think otherwise is to demean the Buddha...which is
 to demean oneself."""
 
+text = '''Hypermethylation of the <I>TPEF/HPP1</I> Gene in Primary and
+          Metastatic Colorectal Cancers,2005,0,3943,"Keywords: methylation, epigenetic, 
+          metastasis, promoter, colon cancer."'''
+
 # Used when tokenizing words
-sentence_re = r'''(?x)      # set flag to allow verbose regexps
-      ([A-Z])(\.[A-Z])+\.?  # abbreviations, e.g. U.S.A.
-    | \w+(-\w+)*            # words with optional internal hyphens
-    | \$?\d+(\.\d+)?%?      # currency and percentages, e.g. $12.40, 82%
-    | \.\.\.                # ellipsis
-    | [][.,;"'?():-_`]      # these are separate tokens
-'''
+
+from nltk.corpus import stopwords
+stopwords = stopwords.words('english')
+
 
 lemmatizer = nltk.WordNetLemmatizer()
 stemmer = nltk.stem.porter.PorterStemmer()
@@ -28,18 +29,6 @@ grammar = r"""
         {<NBAR>}
         {<NBAR><IN><NBAR>}  # Above, connected with in/of/etc...
 """
-chunker = nltk.RegexpParser(grammar)
-
-toks = nltk.regexp_tokenize(text, sentence_re)
-postoks = nltk.tag.pos_tag(toks)
-
-print postoks
-
-tree = chunker.parse(postoks)
-
-from nltk.corpus import stopwords
-stopwords = stopwords.words('english')
-
 
 def leaves(tree):
     """Finds NP (nounphrase) leaf nodes of a chunk tree."""
@@ -65,9 +54,28 @@ def get_terms(tree):
         term = [ normalise(w) for w,t in leaf if acceptable_word(w) ]
         yield term
 
-terms = get_terms(tree)
+def tokenize(text):
+    sentence_re = r'''(?x)      # set flag to allow verbose regexps
+          ([A-Z])(\.[A-Z])+\.?  # abbreviations, e.g. U.S.A.
+        | \w+(-\w+)*            # words with optional internal hyphens
+        | \$?\d+(\.\d+)?%?      # currency and percentages, e.g. $12.40, 82%
+        | \.\.\.                # ellipsis
+        | [][.,;"'?():-_`]      # these are separate tokens
+    '''
 
-for term in terms:
-    for word in term:
-        print word,
-    print
+    chunker = nltk.RegexpParser(grammar)
+
+    toks = nltk.regexp_tokenize(text, sentence_re)
+    postoks = nltk.tag.pos_tag(toks)
+
+    tree = chunker.parse(postoks)
+
+    terms = get_terms(tree)
+    
+    tokens = [' '.join(term) for term in terms if len(term) > 0]
+
+    tokens = list( set(tokens) )
+
+    return tokens
+
+
