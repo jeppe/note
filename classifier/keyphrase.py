@@ -79,3 +79,4 @@ def tokenize(text):
     return tokens
 
 
+print tokenize(text)

@@ -37,7 +37,7 @@ import warnings
 if __name__ == '__main__':
 
 
-    paper_tag = open('paperTag.csv','wb')
+    paper_tag = open('paperTag_100-end.csv','wb')
     paper_tag = csv.writer(paper_tag)
 
     paper_tag.writerow(['paperId','Tags'])
@@ -54,8 +54,11 @@ if __name__ == '__main__':
     for row in paper:
         pid,title,year,cid,jid,kwords = row
         counter += 1
-        if counter % 10000 == 9999:
-        	print counter
+        if counter < 1000002:
+        	continue
+        if counter % 100000 == 2:
+	        print counter
+
         try:
         	int(pid)
         	if cid != '0':
@@ -94,3 +97,5 @@ if __name__ == '__main__':
         	paper_tag.writerow([pid,tokens])
         except:
         	pass
+        #print tokens
+       
